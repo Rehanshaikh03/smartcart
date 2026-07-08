@@ -1,2 +1,2 @@
-# agentic.ai-project
-projects of  agentic ai
+smartcart clustering system
+
